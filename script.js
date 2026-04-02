@@ -2,7 +2,7 @@
    JARVIS — script.js  v2.0
    ─ Theme switcher, Chat, Voice (STT/TTS)
    ═══════════════════════════════════════════════ */
-const API = "/api/app";
+const API = "https://jarvix-chatbot-yee2-h2ka3jouh-ktejaskuppusamy-1637s-projects.vercel.app/api/app";
 
 /* ══════════════════════════════════════
    DOM REFS
