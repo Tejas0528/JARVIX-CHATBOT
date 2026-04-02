@@ -2,8 +2,7 @@
    JARVIS — script.js  v2.0
    ─ Theme switcher, Chat, Voice (STT/TTS)
    ═══════════════════════════════════════════════ */
-
-const API = "http://127.0.0.1:5000";
+const API = "/api/app";
 
 /* ══════════════════════════════════════
    DOM REFS
